@@ -1,5 +1,6 @@
 
 node_modules
+!node_modules/playcanvas-sync/src/utils/config-vars.js
 package-lock.json
 build
 *.DS_Store
