@@ -34,7 +34,7 @@
   "license": "MIT",
   "devDependencies": {
     "playcanvas": "^1.55.4",
-    "playcanvas-sync": "git+https://github.com/playcanvas/playcanvas-sync.git#a03b041091bf885b75a2852b7b05e190974c14ce",
+    "playcanvas-sync": "git+https://github.com/adam-gdovin/playcanvas-sync.git",
     "typescript": "^4.7.4"
   },
   "dependencies": {
